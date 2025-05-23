@@ -1,7 +1,5 @@
 # nmapboosterz
 
-
-
 NmapBoosterz es un script Bash diseñado para automatizar y acelerar escaneos con Nmap, ideal para pentesters, jugadores de CTF y profesionales del Red Team que buscan ahorrar tiempo en sus fases de reconocimiento.
 
 Este script combina potencia, personalización y una interfaz amigable con salida en colores, animaciones tipo spinner y soporte para múltiples formatos de exportación, facilitando el análisis de resultados.

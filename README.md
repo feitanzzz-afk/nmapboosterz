@@ -20,7 +20,7 @@ NmapBoosterz automatiza el flujo común de escaneo para:
 
 📸 PoC
 
-./nmapboosterz.sh <IP>
+./nmapboosterz.sh IP
 
 🧠 Características principales
 
